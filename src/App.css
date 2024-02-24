@@ -1,0 +1,12 @@
+*{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.list-group-item:hover{
+  background-color: whitesmoke;
+}
+
+.list-group-item{
+  font-size: large;
+  font-weight: 100;
+ 
+}

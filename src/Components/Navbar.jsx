@@ -5,7 +5,7 @@ function Navbar() {
     <div className='border-bottom border-primary border-3 flex justify-content-center  align-items-center ' style={{backgroundColor:'#f7f7f7'}}>
       <div className="mx-4">
         <nav className="navbar navbar-expand-md navbar-dark justify-content-center py-3 mb-4 " style={{backgroundColor:'#f7f7f7'}}>
-          <a  className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+          <a href='#'   className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
             <img className='me-2' src="https://th.bing.com/th?id=OSK.900263eed244e34d38c4b8fd2313db0c&w=124&h=168&c=7&o=6&dpr=1.3&pid=SANGAM" alt="ktulogo" width={'40px'} height={'50px'} />
             <span className="fs-5 text-primary">e-Gov Platform for APJ Abdul Kalam Technological University</span>
           </a>

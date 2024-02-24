@@ -9,7 +9,7 @@ function HomeBody() {
 <div className="row" >
       <div className="col-sm-9 mb-5 " style={{ marginTop: '40px' }} >
         <div className="list-group ">
-          <a className="list-group-item active" style={{ backgroundColor:'#428bca'}}>
+          <a href='#' className="list-group-item active" style={{ backgroundColor:'#428bca'}}>
             <h3 style={{ display: 'inline-block', margin: '5px' ,backgroundColor:'#428bca'}}>
               APJ Abdul Kalam Technological University e-Governance Portal
             </h3>
@@ -18,7 +18,7 @@ function HomeBody() {
 
         <div className="list-group">
           {/* Institution Section */}
-          <a className="list-group-item">
+          <a href='#' className="list-group-item">
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>
@@ -43,7 +43,7 @@ function HomeBody() {
           </a>
 
 
-          <a className="list-group-item">
+          <a href='#'  className="list-group-item">
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>
@@ -66,7 +66,7 @@ function HomeBody() {
           </a>
 
           {/* University Section */}
-          <a className="list-group-item" >
+          <a href='#'  className="list-group-item" >
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>

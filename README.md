@@ -1,12 +1,35 @@
-# KTU HOME PAGE Clone - React
+# KTU Home Page Clone - React
 
-## Available Scripts
+![Home Page](https://github.com/Nandhukriss/ktu-home-page-clone/assets/103727372/58ca4052-1db6-4073-9e87-7ffa6b81d2b7)
 
-![home page](https://github.com/Nandhukriss/ktu-home-page-clone/assets/103727372/58ca4052-1db6-4073-9e87-7ffa6b81d2b7)
+## Overview
 
-In the project directory, you can run:
+Welcome to the KTU Home Page Clone project built with React! This repository aims to replicate the KTU Home Page, providing a hands-on example of React development.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To run the project locally, follow these simple steps:
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/Nandhukriss/ktu-home-page-clone.git
+    ```
+
+2. **Navigate to the Project Directory:**
+    ```bash
+    cd ktu-home-page-clone
+    ```
+
+3. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Start the App in Development Mode:**
+    ```bash
+    npm start
+    ```
+
+5. **Open Your Browser:**
+   - Visit [http://localhost:3000](http://localhost:3000) to explore the cloned KTU Home Page.
+

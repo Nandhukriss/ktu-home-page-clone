@@ -1,6 +1,6 @@
 # KTU Home Page Clone - React
 
-![Home Page](https://github.com/Nandhukriss/ktu-home-page-clone/assets/103727372/58ca4052-1db6-4073-9e87-7ffa6b81d2b7)
+![Home Page](https://github.com/Nandhukriss/ktu-home-page-clone/assets/103727372/129aad67-b17d-43c7-85d6-d6a2a947a9a3)
 
 ## Overview
 

@@ -9,16 +9,16 @@ function HomeBody() {
 <div className="row" >
       <div className="col-sm-9 mb-5 " style={{ marginTop: '40px' }} >
         <div className="list-group ">
-          <a href='#' className="list-group-item active" style={{ backgroundColor:'#428bca'}}>
+          <div className="list-group-item active" style={{ backgroundColor:'#428bca'}}>
             <h3 style={{ display: 'inline-block', margin: '5px' ,backgroundColor:'#428bca'}}>
               APJ Abdul Kalam Technological University e-Governance Portal
             </h3>
-          </a>
+          </div>
         </div>
 
         <div className="list-group">
           {/* Institution Section */}
-          <a href='#' className="list-group-item">
+          <div className="list-group-item">
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>
@@ -40,10 +40,10 @@ function HomeBody() {
                 choose the courses for each branch/stream running there.
               </p>
             </div>
-          </a>
+          </div>
 
 
-          <a href='#'  className="list-group-item">
+          <div className="list-group-item">
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>
@@ -63,10 +63,10 @@ function HomeBody() {
                 communicate with the university.
               </p>
             </div>
-          </a>
+          </div>
 
           {/* University Section */}
-          <a href='#'  className="list-group-item" >
+          <div className="list-group-item" >
             <div style={{ display: 'inline-block', verticalAlign: 'top', margin: '0.4em 0px' }} className="login-icon">
               <span aria-hidden="true" className="glyphicon glyphicon-home"></span>
             </div>
@@ -89,7 +89,7 @@ function HomeBody() {
                 communication with colleges.
               </p>
             </div>
-          </a>
+          </div>
 
         </div>
       </div>
